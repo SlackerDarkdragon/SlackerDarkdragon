@@ -1,8 +1,3 @@
-[🇺🇸 🇬🇧]You can call me Slacker and I'm 15. I know a bit of development with HTML5 & CSS3, Python and Rust, and I also have knowledge about Linux operating systems. I intend to delve deeper into the Rust language and start learning about SQL and NoSQL Databases for Back-End Development and/or DevOps.
-
-[🇪🇦 🇲🇽]Puedes llamarme Slacker y tengo 15 años. Conozco un poco de desarrollo con HTML5 y CSS3, Python y Rust, y también tengo conocimientos sobre sistemas operativos Linux. Tengo la intención de profundizar en el lenguaje Rust y comenzar a aprender sobre bases de datos SQL y NoSQL para Desarrollo de Back-End y / o DevOps.
-
-[🇧🇷 🇵🇹]Podem me chamar de Slacker e tenho 15 anos. Conheço um pouco de desenvolvimento com HTML5 & CSS3, Python e Rust, e também tenho conhecimento sobre sistemas operacionais Linux. Pretendo me aprofundar mais na linguagem Rust e começar a aprender sobre Bancos de dados SQL e NoSQL para desenvolvimento Back-End e/ou DevOps.
 <!--
 **SlackerDarkdragon/SlackerDarkdragon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
